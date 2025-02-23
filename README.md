@@ -2,6 +2,8 @@
 
 Este é um projeto simples de **Card de Produto** desenvolvido em **React**. O componente exibe informações sobre um produto, como nome, preço e imagem, com um estilo responsivo e um botão "Adicionar". O cartão do meio tem um destaque visual diferente para ajudar no contraste com os cards laterais.
 
+![card-produto](https://github.com/Lydson/React-Component-Product-Card/blob/main/card-produto.png)
+
 ## Como Executar
 
 1. Clone o repositório:
