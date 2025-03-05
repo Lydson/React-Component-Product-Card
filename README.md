@@ -63,4 +63,4 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ---
 
-Feito com 💙 por [Lydson](https://github.com/Lydson)
+Feito por [Lydson](https://github.com/Lydson)
